@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+*{
+    background-color : #261f19;
+}
+.whis{
+    height: 400px;
+    width: 10%;
+    
+}
+.booboo{
+    color: blue;
+}
+.container1{
+    font-family: "Libre Baskerville", serif;
+    background-image: url(/assets/asset\ 5.jpeg);
+    padding: 20%;
+    height: auto;
+    width: 100% !important;
+    color: white;
+    height: auto !important;
+    opacity: 40%;
+    background-size: contain;
+}
+h1{
+    background: none;
+}
+h6{
+    font-family: "Nunito", sans-serif;
+    background: none;
+}
+h5{
+    font-family: "Nunito", sans-serif;
+    background: none; 
+}
+.container2{
+    color: white;
+    padding: 100px;
+}
+.container3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10%;
+}
+.brush{
+    font-family: "Alex Brush", cursive;
+}
+.llll{
+    color: #b4936f;
+}
+
